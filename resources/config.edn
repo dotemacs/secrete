@@ -1,0 +1,3 @@
+{:one #profile {:dev #parameter :foo
+                :staging "staging"
+                :production "production"}}
